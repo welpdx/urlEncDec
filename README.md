@@ -1,7 +1,7 @@
 # urlEncDec
 Encode or Decode URLS
 
-#Usages
+# Usage
 1. Paste Encoded or Decoded Url into input.
 2. If url is encoded, the script will decode it. If url is decoded, the script will encode.
 3. Output will be added to clipboard.
